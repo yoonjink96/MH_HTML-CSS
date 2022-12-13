@@ -1,2 +1,2 @@
 # MH_HTML-CSS
-exercises in MustHave_HTML-CSS
+projects in MustHave_HTML-CSS
